@@ -2,6 +2,9 @@
 // const apples: number = 5;
 let apples: number = 5;
 
+//use of type interferance - because variable declaration and initialization are done on same line, don't need to explicitly write out type
+let pears = 6;
+
 //apples = 'test test test'
 apples = 6
 
